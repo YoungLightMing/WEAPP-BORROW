@@ -1,0 +1,22 @@
+{
+  "name": "weopp_borrow",
+  "version": "1.0.0",
+  "description": "图书借阅小程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoungLightMing/WEAPP-BORROW.git"
+  },
+  "author": "younglightming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoungLightMing/WEAPP-BORROW/issues"
+  },
+  "homepage": "https://github.com/YoungLightMing/WEAPP-BORROW#readme",
+  "dependencies": {
+    "vant-weapp": "^0.4.5"
+  }
+}

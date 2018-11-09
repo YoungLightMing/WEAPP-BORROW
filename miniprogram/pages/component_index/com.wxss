@@ -1,6 +1,0 @@
-/* miniprogram/pages/component_index/com.wxss */
-.my-cla {
-  color: red;
-  background-color: goldenrod;
-  font-size: 100rpx;
-}

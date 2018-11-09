@@ -1,3 +1,0 @@
-<!--miniprogram/pages/component_index/com.wxml-->
-<text>miniprogram/pages/component_index/com.wxml</text>
-<com_1 contentOut="我了个去！！" my-class="my-cla" style="color: red"></com_1>

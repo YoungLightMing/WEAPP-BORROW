@@ -41,8 +41,8 @@
   </view>
 
   <view class="uploader">
-    <navigator url="../component_index/com" open-type="navigate" class="uploader-text">
-      <text>自定义组件</text>s
+    <navigator url="../appIndex/index" open-type="navigate" class="uploader-text">
+      <text>小程序主页</text>s
     </navigator>
   </view>
 
