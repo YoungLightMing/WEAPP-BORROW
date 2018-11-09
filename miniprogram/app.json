@@ -12,10 +12,31 @@
     
   ],
   "window": {
-    "backgroundColor": "#F6F6F6",
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#F6F6F6",
-    "navigationBarTitleText": "云开发 QuickStart",
-    "navigationBarTextStyle": "black"
+    "backgroundColor": "#FFFFFF",
+    "backgroundTextStyle": "#FFFFFF",
+    "navigationBarBackgroundColor": "#FF6666",
+    "navigationBarTitleText": "阿木木借书",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#FF5500",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/appIndex/index",
+        "text": "借阅",
+        "iconPath": "./images/tabarIcon/borrowgray.png",
+        "selectedIconPath": "./images/tabarIcon/borrow.png"
+      },
+      {
+        "pagePath": "pages/addFunction/addFunction",
+        "text": "我的",
+        "iconPath": "./images/tabarIcon/wodegray.png",
+        "selectedIconPath": "./images/tabarIcon/wode.png"
+      }
+    ]
   }
 }
