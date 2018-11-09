@@ -1,0 +1,4 @@
+<!--pages/component_1/com_1.wxml-->
+<com_1 title="{{title}}"  class="inner-class my-class" inner-title="{{text}}" >
+  {{contentOut}} {{text}}
+</com_1>

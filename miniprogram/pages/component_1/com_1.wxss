@@ -1,0 +1,12 @@
+/* pages/component_1/com_1.wxss */
+
+:host {
+  color: blue;
+  font-size: 60rpx;
+  font-weight: bold;
+}
+
+.inner-class {
+  color: yellow;
+  background-color:  aqua;
+}
